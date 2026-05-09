@@ -2,4 +2,4 @@
 # 3D Enviroment
 Para ejecutar el proyecto se necesita tener instalado Node js
 Una vez extraido el proyecto usar en el terminal el comando "npm run dev" dentro del directorio
-npm run dev 
+
